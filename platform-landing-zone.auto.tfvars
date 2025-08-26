@@ -212,13 +212,6 @@ management_group_settings = {
         }
       }
     }
-    landingzones = {
-      policy_assignments = {
-        Deny-IP-forwarding = {
-          enforcement_mode = "DoNotEnforce"
-        }
-      }
-    }
   }
   /*
   ## Example of how to add management group role assignments
